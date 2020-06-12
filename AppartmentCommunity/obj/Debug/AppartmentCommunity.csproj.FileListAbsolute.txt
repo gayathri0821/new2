@@ -1,0 +1,14 @@
+c:\users\asus\documents\visual studio 2013\Projects\AppartmentCommunity\AppartmentCommunity\bin\Debug\AppartmentCommunity.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\AppartmentCommunity\AppartmentCommunity\obj\Debug\AppartmentCommunity.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\AppartmentCommunity\AppartmentCommunity\obj\Debug\AppartmentCommunity.Cms.resources
+c:\users\asus\documents\visual studio 2013\Projects\AppartmentCommunity\AppartmentCommunity\obj\Debug\AppartmentCommunity.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\AppartmentCommunity\AppartmentCommunity\obj\Debug\AppartmentCommunity.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\AppartmentCommunity\AppartmentCommunity\bin\Debug\AppartmentCommunity.exe
+c:\users\asus\documents\visual studio 2013\Projects\AppartmentCommunity\AppartmentCommunity\bin\Debug\AppartmentCommunity.pdb
+c:\users\asus\documents\visual studio 2013\Projects\AppartmentCommunity\AppartmentCommunity\obj\Debug\AppartmentCommunity.exe
+c:\users\asus\documents\visual studio 2013\Projects\AppartmentCommunity\AppartmentCommunity\obj\Debug\AppartmentCommunity.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\AppartmentCommunity\AppartmentCommunity\obj\Debug\WORKING_AREA.Form1.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\AppartmentCommunity\AppartmentCommunity\obj\Debug\Bill_Status.Billstatus.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\AppartmentCommunity\AppartmentCommunity\obj\Debug\MyProject1.MinuteBook.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\AppartmentCommunity\AppartmentCommunity\obj\Debug\MyProject1.MinuteBookEntrys.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\AppartmentCommunity\AppartmentCommunity\obj\Debug\parking_1.Form1.resources
